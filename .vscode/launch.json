@@ -1,6 +1,7 @@
 {
     "version": "0.2.0",
     "configurations": [
+
         {
             "type": "java",
             "name": "FixThePrint",
@@ -18,6 +19,12 @@
             "name": "MakeItCount",
             "request": "launch",
             "mainClass": "_06_spot_the_error.MakeItCount"
+        },
+        {
+            "type": "java",
+            "name": "badger",
+            "request": "launch",
+            "mainClass": "_05_for_loops.badger"
         },
         {
             "type": "java",
