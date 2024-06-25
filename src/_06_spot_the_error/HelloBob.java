@@ -13,8 +13,10 @@ public static void main(String[] args) {
 	
 	if (name == "Bob") {
 		JOptionPane.showMessageDialog(null, "Hello Bob");
-	} else {
+	} 
+	else {
 		JOptionPane.showMessageDialog(null, "You're not Bob!!!");
 	}
+	
 }
 }
